@@ -1,29 +1,37 @@
 Cognizant Technical Training Portfolio
 
-
-This repository is a comprehensive collection of hands-on exercises and projects developed during the technical training program with Cognizant. It documents a structured journey from foundational .NET development to modern web frameworks and version control best practices.
+This repository contains a complete set of practical exercises and projects completed during the technical training program at Cognizant. It showcases a step-by-step learning journey, starting with the fundamentals of .NET development and progressing toward modern web technologies and version-control practices.
 
 Repository Overview
-The project is organized into weekly modules, each targeting specific industry-standard competencies:
 
-week1: Foundational setup, environment configuration, and project initialization.  
-week2: Data access implementation using Entity Framework Core 8.0, including database contexts, LINQ queries, and data insertion techniques.  
-week3: Web API development, covering RESTful architecture, CRUD operations, CORS enablement, and custom authorization filters. 
-week4: Microservices and security, focusing on JWT (JSON Web Token) authentication, role-based authorization, and claims-based identity management.  
-week5: Angular (v20.0) development, covering components, routing, reactive forms, HTTP integration, and NgRx state management.  
-week6: ReactJS development, focusing on JSX, event handling, conditional rendering, and list management.  
-week7: Git version control, including branching, merging, conflict resolution, and remote repository management.  
+The repository is divided into weekly sections, with each module focusing on important industry-relevant skills:
+
+week1: Introduction to project setup, development environment configuration, and application initialization.
+
+week2: Database access and management using Entity Framework Core 8.0, including database contexts, LINQ operations, and data insertion methods.
+
+week3: Development of Web APIs with emphasis on RESTful principles, CRUD functionality, CORS configuration, and custom authorization filters.
+
+week4: Exploration of microservices and security concepts, including JWT (JSON Web Token) authentication, role-based access control, and claims-based identity management.
+
+week5: Angular (v20.0) development, covering components, navigation and routing, reactive forms, HTTP communication, and state management with NgRx.
+
+week6: ReactJS development, focusing on JSX syntax, event handling, conditional rendering, and rendering lists efficiently.
+
+week7: Git version-control practices, including branching strategies, merge operations, conflict handling, and remote repository management.
 
 Core Technical Skills
 
+Backend Development: Designing and building scalable RESTful APIs using ASP.NET Core and Entity Framework Core.
 
-Backend Development: Building scalable RESTful APIs with ASP.NET Core and Entity Framework Core.  
-Frontend Development: Creating dynamic, responsive user interfaces using Angular and ReactJS.  
-Security & Identity: Implementing robust authentication mechanisms such as JWT.  
-DevOps & Version Control: Mastering Git workflows, including branching, merging, and collaborative development.  
-Integration: Handling real-time messaging and API integration using RxJS and HttpClient.  
+Frontend Development: Developing interactive and responsive user interfaces with Angular and ReactJS.
+
+Security & Identity: Implementing secure authentication and authorization mechanisms using JWT.
+
+DevOps & Version Control: Applying Git workflows, including branching, merging, and collaborative development techniques.
+
+Integration: Managing API communication and real-time data flow using RxJS and HttpClient.
 
 Author
 
-
-Developed by Annashree Hui as part of the Cognizant technical training curriculum.
+Developed by Aniket Nag as part of the Cognizant technical training curriculum.
